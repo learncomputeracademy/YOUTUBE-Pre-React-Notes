@@ -1,3 +1,6 @@
+
+[![Learn Computer Academy Logo](https://res.cloudinary.com/learncomputeracademy/images/w_300,h_80,c_scale/f_webp/v1699374132/learncomputer.in/LOGO_sucj8a/LOGO_sucj8a.png)](https://learncomputer.in/)
+
 # JavaScript has two different types of values:
 
 1. Primitive values
@@ -126,3 +129,4 @@ const updatedTasks = tasks.map((task) =>
 );
 ```
 ---
+
